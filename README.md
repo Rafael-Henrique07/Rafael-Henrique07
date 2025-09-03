@@ -25,3 +25,17 @@
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968313.png" alt="MySQL" width="40" height="40"/>
 
 </div>
+<br>
+<div>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Rafael-Henrique07&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Rafael-Henrique07&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Rafael-Henrique07&show_icons=true" />
+  </picture>
+</div>
