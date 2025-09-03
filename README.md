@@ -22,5 +22,6 @@
     <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" width="40" height="40"/>
     <img src="https://github.com/user-attachments/assets/3f719e8c-39b7-4e53-9b5c-c30aecc7e5f5" width="40" height="40" alt="JavaScript"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968313.png" alt="MySQL" width="40" height="40"/>
 
 </div>
