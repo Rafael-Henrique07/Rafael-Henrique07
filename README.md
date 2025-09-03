@@ -1,7 +1,7 @@
 # Olá, me chamo Rafael Henrique!
 
 <div id="badges">
-<a Target= "_Blank" href = "https://www.linkedin.com/in/rafael-henrique-de-oliveira-da-silva/">
+<a Target= "_blank" href = "https://www.linkedin.com/in/rafael-henrique-de-oliveira-da-silva/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 </div>
